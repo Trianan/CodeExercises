@@ -1,0 +1,4 @@
+﻿  problem_8.cpp
+C:\Users\trist\source\repos\ProjectEuler\problem_8\problem_8.cpp(41,19): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\trist\source\repos\ProjectEuler\problem_8\problem_8.cpp(42): warning C4715: 'char_to_int': not all control paths return a value
+  problem_8.vcxproj -> C:\Users\trist\source\repos\ProjectEuler\Debug\problem_8.exe

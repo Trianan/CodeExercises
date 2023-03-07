@@ -1,0 +1,5 @@
+﻿  problem_13.cpp
+C:\Users\trist\source\repos\ProjectEuler\problem_13\problem_13.cpp(57,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\trist\source\repos\ProjectEuler\problem_13\problem_13.cpp(67,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\trist\source\repos\ProjectEuler\problem_13\problem_13.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+  problem_13.vcxproj -> C:\Users\trist\source\repos\ProjectEuler\Debug\problem_13.exe
