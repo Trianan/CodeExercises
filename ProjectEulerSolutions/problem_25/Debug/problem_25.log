@@ -1,4 +1,0 @@
-﻿  EulerTools.cpp
-C:\Users\trist\source\repos\ProjectEuler\EulerTools\EulerTools.cpp(73,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\trist\source\repos\ProjectEuler\EulerTools\EulerTools.cpp(88,31): warning C4018: '>': signed/unsigned mismatch
-  problem_25.vcxproj -> C:\Users\trist\source\repos\ProjectEuler\Debug\problem_25.exe

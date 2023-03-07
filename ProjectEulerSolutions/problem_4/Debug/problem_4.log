@@ -1,4 +1,0 @@
-﻿  problem_4.cpp
-C:\Users\trist\source\repos\ProjectEuler\problem_4\problem_4.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\trist\source\repos\ProjectEuler\problem_4\problem_4.cpp(30): warning C4715: 'is_palindrome': not all control paths return a value
-  problem_4.vcxproj -> C:\Users\trist\source\repos\ProjectEuler\Debug\problem_4.exe
