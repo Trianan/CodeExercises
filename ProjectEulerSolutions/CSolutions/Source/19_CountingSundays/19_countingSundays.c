@@ -31,7 +31,7 @@ int main() {
     while(current_year <= MAX_YEAR) {
 
         // Handle February on leap year:
-        if (is_leapyear(current_year)) {
+        if (is_leapyear(current_year)) { // This can be optimized to run only on Jan 1st of each year.
             months[1] = 29;
         } else {
             months[1] = 28;
