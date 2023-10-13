@@ -3,13 +3,10 @@
 {   
     local current_dir="$(pwd)"
     local solution_dir="$(realpath "$0/../..")/$1"
-    
     mkdir "$solution_dir" && cd "$solution_dir"
-
     touch ./dataset_{real,sample}.txt
-
-    echo "import sys\nDATASET_FILENAME = sys.argv[1]" > "./${1#[0-9]_}.py"
-
+    echo "import sys\nDATASET_FILENAME = sys.argv[1]" > "./${1##[0-9]*_}.py"
+    
     echo '#!/bin/zsh
 SAMPLE_DATASET=./dataset_sample.txt
 SAMPLE_OUTPUT='replace me!'
